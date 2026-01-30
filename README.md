@@ -12,6 +12,8 @@ A responsive Apple-style landing page built to practice modern UI design and cle
 - HTML
 - Tailwind CSS
 - JavaScript
+- React
+- Gsap
 
 ## 🌐 Live Demo
 https://apple-15-pro-green.vercel.app/
@@ -19,7 +21,7 @@ https://apple-15-pro-green.vercel.app/
 ## 📚 What I Learned
 - Building responsive layouts
 - Improving UI consistency
-- Writing clean, structured HTML & CSS
+- Writing clean, structured Tailwind CSS inside JavaScripts
 
 ## 📦 Installation
 npm install
